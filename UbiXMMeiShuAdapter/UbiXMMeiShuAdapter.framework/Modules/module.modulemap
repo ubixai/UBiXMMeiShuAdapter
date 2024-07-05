@@ -1,0 +1,6 @@
+framework module UbiXMMeiShuAdapter {
+  umbrella header "UbiXMMeiShuAdapter-umbrella.h"
+
+  export *
+  module * { export * }
+}
